@@ -14,3 +14,4 @@ int main(void) {
 	output_results(marks, statistics);
 
 }
+//modified from github
