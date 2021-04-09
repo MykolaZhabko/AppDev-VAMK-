@@ -1,6 +1,7 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <math.h>
 
 //usually these information are given in a header file:
 // 1. Constant definition (e.g., #define PI 3.1415)
