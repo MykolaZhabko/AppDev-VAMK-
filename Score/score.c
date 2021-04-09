@@ -15,4 +15,8 @@ int main(void) {
 
 }
 
+
 //modified from VAMK linux
+//===
+//modified from github
+// Acsepted from VAMK
